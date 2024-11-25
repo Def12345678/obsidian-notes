@@ -10,8 +10,7 @@ inne:
 
 
 co teraz:
-- godot wall-e stranding dostarczanie smieci
-(sposob na zarobek)
+- godot wall-e stranding dostarczanie smieci (sposob na zarobek)
 - nauka prawa jazdy 
 - pomyslec o flight sticku tyle ze takim na biurko,
 - joystick do fighterow,
