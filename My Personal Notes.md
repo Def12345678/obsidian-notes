@@ -18,7 +18,6 @@ co teraz:
 - ipa, plecionka, elektronika do joysticka (schemat zrob to sie dowiesz, lampka przy okazji), ws2812b do lampki mozesz zamowic,
 - prezent do kuby,
 - fotel,
-- na nos kosmetyki,
 
 na później
 - scianka wspinaczkowa,
