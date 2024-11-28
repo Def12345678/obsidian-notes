@@ -18,6 +18,7 @@ co teraz:
 - upgrade do endera,
 - ipa, plecionka, elektronika do joysticka (schemat zrob to sie dowiesz, lampka przy okazji), ws2812b do lampki mozesz zamowic,
 - prezent do kuby,
+- projekt lozka z biurkiem pod nim
 
 na później
 - scianka wspinaczkowa,
