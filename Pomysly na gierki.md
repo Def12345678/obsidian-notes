@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=nq1lrU-OFR4&t=1978s&ab_channel=Arkana
 
 
 pomysl na gre testowa:
-- wall-e stranding dostarczanie smieci
+- wall-e stranding dostarczanie smieci (aktualnie robione, prawdopobnie wyjdzie pelna gra pierwsza)
 - Przemieszczanie sie pomiedzy wyspami przy pomocy samolotu, ta skladanka o apokalipsie
 - gra z fabula o slowianskiej mitologii moze extraction-looter, south siberian folklore
 - vr chat, yugo style tylko lepiej zrobione
