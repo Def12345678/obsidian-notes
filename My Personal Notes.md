@@ -18,7 +18,6 @@ co teraz:
 - upgrade do endera,
 - ipa, plecionka, elektronika do joysticka (schemat zrob to sie dowiesz, lampka przy okazji), ws2812b do lampki mozesz zamowic,
 - prezent do kuby,
-- projekt lozka z biurkiem pod nim
 
 na później
 - scianka wspinaczkowa,
@@ -29,5 +28,6 @@ na później
 - pomyslec o flight sticku tyle ze takim na biurko (odstawka jak na razie)
 - panel audio (odstawka jak na razie)
 - samochod rc diy (odstawka jak na razie)
+- projekt lozka z biurkiem pod nim
 
 STM32F103RC_btt
