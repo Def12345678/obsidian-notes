@@ -15,3 +15,5 @@ pomysl na gre testowa:
 - gra na podstawie anime gate (prosta gierka, krotka, typu arma/squad albo grey zone warfare)
 - diplomacy board video game
 - girls und panzer game
+- excel game
+- znajdz upitego kolege
