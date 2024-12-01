@@ -17,4 +17,3 @@ pomysl na gre testowa:
 - girls und panzer game
 - excel game
 - znajdz upitego kolege
-- gra w ktorej jako czlonek/osoba/zolnierz uczestniczysz w walce niczym w stellaris
