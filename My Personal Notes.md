@@ -11,9 +11,7 @@ inne:
 
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek)
-- nauka prawa jazdy 
-- joystick do fighterow,
-- inna półka do warhammera i malowanie figurek,
+- nauka prawa jazdy,
 - nowa lampka do pokoju, cos moze z ws2812b razem moze z sunrise alarm,
 - upgrade do endera,
 - ipa, plecionka, elektronika do joysticka (schemat zrob to sie dowiesz, lampka przy okazji), ws2812b do lampki mozesz zamowic,
