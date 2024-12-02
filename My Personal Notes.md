@@ -6,7 +6,7 @@ proste, przyjemne za darmo:
 - godot
 
 inne:
-- samolot rc (teraz w pelni, pcb, wlasnej roboty joystick i te inne)
+- samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne)
 
 
 co teraz:
@@ -14,7 +14,7 @@ co teraz:
 - nauka prawa jazdy,
 - nowa lampka do pokoju, cos moze z ws2812b razem moze z sunrise alarm,
 - upgrade do endera,
-- ipa, plecionka, elektronika do joysticka (schemat zrob to sie dowiesz, lampka przy okazji), ws2812b do lampki mozesz zamowic,
+- ipa, plecionka, ws2812b do lampki mozesz zamowic,
 - prezent do kuby,
 
 na później
