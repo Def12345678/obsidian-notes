@@ -12,7 +12,7 @@ pomysl na gre testowa:
 - Przemieszczanie sie pomiedzy wyspami przy pomocy samolotu, ta skladanka o apokalipsie
 - gra z fabula o slowianskiej mitologii moze extraction-looter, south siberian folklore
 - vr chat, yugo style tylko lepiej zrobione
-- gra na podstawie anime gate (prosta gierka, krotka, typu arma/squad albo grey zone warfare)
+- gra na podstawie anime gate (prosta gierka, krotka, typu arma/squad albo grey zone warfare) moze cos bardziej realistyczniejszego
 - diplomacy board video game
 - girls und panzer game
 - excel game
