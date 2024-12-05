@@ -19,3 +19,4 @@ pomysl na gre testowa:
 - znajdz upitego kolege
 - traffic rules you need follow
 - na yotube mozesz zrobic filmiki krotkie ktore ukazalby jak wygladac moglo by zdobyc navi w bitwie przez wojska, bardziej realistyczny avatar
+- zrobic gre o zombie survival cos jak TWD z street map z prawdziwego swiata
