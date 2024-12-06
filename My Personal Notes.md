@@ -42,5 +42,6 @@ na później
 - samochod rc diy (odstawka jak na razie)
 - projekt lozka z biurkiem pod nim
 - przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
+- zrobic kierownice do ets diy
 
 STM32F103RC_btt
