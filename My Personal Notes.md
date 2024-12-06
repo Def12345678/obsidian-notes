@@ -19,7 +19,7 @@ co teraz:
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Wysoki priorytet, krótki czas realizacji:**
-	- **Lampka do pokoju (z WS2812B i sunrise alarm):** To mały projekt, który można szybko zrealizować. Dodatkowo może przynieść dużo satysfakcji i poczucie ukończenia zadania.
+	- **Lampka do pokoju (z WS2812B i sunrise alarm, wifi):** To mały projekt, który można szybko zrealizować. Dodatkowo może przynieść dużo satysfakcji i poczucie ukończenia zadania.
     
 	- **Nauka prawa jazdy:** Ponieważ egzamin zbliża się za około 2 tygodnie, warto skupić się na regularnym powtarzaniu materiału i testach.
 
@@ -43,5 +43,6 @@ na później
 - projekt lozka z biurkiem pod nim
 - przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
 - zrobic kierownice do ets diy
+- robotic arm ( ͡° ͜ʖ ͡°)
 
 STM32F103RC_btt
