@@ -44,5 +44,6 @@ na później
 - przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
 - zrobic kierownice do ets diy
 - robotic arm ( ͡° ͜ʖ ͡°)
+- rf hack
 
 STM32F103RC_btt
