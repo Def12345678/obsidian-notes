@@ -1,10 +1,5 @@
 **Po fotelu nie mogę wydawać pieniądzy z koperty**
 
-proste, przyjemne za darmo:
-- nauka prawa jazdy
-- rower 
-- godot
-
 inne:
 - samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne)
 
