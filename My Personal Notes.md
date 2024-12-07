@@ -9,7 +9,6 @@ co teraz:
 - nauka prawa jazdy,
 - upgrade do endera,
 - ipa, plecionka,
-
 - prezent do kuby,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
