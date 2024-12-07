@@ -9,7 +9,7 @@ co teraz:
 - nauka prawa jazdy,
 - upgrade do endera,
 - ipa, plecionka,
-- zrobic kierownice do ets diy,
+
 - prezent do kuby,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
@@ -30,10 +30,11 @@ na później
 - streamy z North african Campany,
 - firma produkujaca drukarki 3D,
 
-- pomyslec o flight sticku tyle ze takim na biurko (odstawka jak na razie)
-- panel audio (odstawka jak na razie)
-- samochod rc diy (odstawka jak na razie)
-- projekt lozka z biurkiem pod nim
+- pomyslec o flight sticku tyle ze takim na biurko (odstawka jak na razie),
+- panel audio (odstawka jak na razie),
+- samochod rc diy (odstawka jak na razie),
+- projekt lozka z biurkiem pod nim,
+- zrobic kierownice do ets diy,
 - przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack

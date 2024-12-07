@@ -1,0 +1,2 @@
+- power source nowe miejsce
+- direct extruder
