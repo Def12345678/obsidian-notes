@@ -12,15 +12,12 @@ inne:
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek)
 - nauka prawa jazdy,
-- nowa lampka do pokoju, cos moze z ws2812b razem moze z sunrise alarm,
 - upgrade do endera,
-- ipa, plecionka, ws2812b do lampki mozesz zamowic,
+- ipa, plecionka,
 - prezent do kuby,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Wysoki priorytet, krótki czas realizacji:**
-	- **Lampka do pokoju (z WS2812B i sunrise alarm, wifi, i cos jeszcze masz w chuj wolnych pinow):** To mały projekt, który można szybko zrealizować. Dodatkowo może przynieść dużo satysfakcji i poczucie ukończenia zadania.
-    
 	- **Nauka prawa jazdy:** Ponieważ egzamin zbliża się za około 2 tygodnie, warto skupić się na regularnym powtarzaniu materiału i testach.
 
 - **Wysoki priorytet, ale większy czas:**
