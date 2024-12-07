@@ -2,7 +2,8 @@
 
 inne:
 - samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne)
-
+- zrobic kierownice do ets diy,
+- samochod rc diy (odstawka jak na razie),
 
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek),
@@ -31,9 +32,7 @@ na później
 
 - pomyslec o flight sticku tyle ze takim na biurko (odstawka jak na razie),
 - panel audio (odstawka jak na razie),
-- samochod rc diy (odstawka jak na razie),
 - projekt lozka z biurkiem pod nim,
-- zrobic kierownice do ets diy,
 - przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
