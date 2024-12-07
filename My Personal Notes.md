@@ -33,7 +33,6 @@ na później
 - pomyslec o flight sticku tyle ze takim na biurko (odstawka jak na razie),
 - panel audio (odstawka jak na razie),
 - projekt lozka z biurkiem pod nim,
-- przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
 
