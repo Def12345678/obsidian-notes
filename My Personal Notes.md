@@ -5,10 +5,11 @@ inne:
 
 
 co teraz:
-- godot wall-e stranding dostarczanie smieci (sposob na zarobek)
+- godot wall-e stranding dostarczanie smieci (sposob na zarobek),
 - nauka prawa jazdy,
 - upgrade do endera,
 - ipa, plecionka,
+- zrobic kierownice do ets diy,
 - prezent do kuby,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
@@ -34,7 +35,6 @@ na później
 - samochod rc diy (odstawka jak na razie)
 - projekt lozka z biurkiem pod nim
 - przerobic ender 3 na 4 axis drukarke ale aby to jakos wygladalo
-- zrobic kierownice do ets diy
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
 
