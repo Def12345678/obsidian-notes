@@ -35,5 +35,6 @@ na później
 - projekt lozka z biurkiem pod nim,
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
+- gamejam tygodniowy (temat: bus simulator)
 
 STM32F103RC_btt
