@@ -11,7 +11,7 @@ co teraz:
 - upgrade do endera,
 - ipa, plecionka,
 - prezent do kuby,
-- fabian
+- długopis elektroniczny 
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Wysoki priorytet, krótki czas realizacji:**
