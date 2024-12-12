@@ -14,7 +14,7 @@ co teraz:
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Wysoki priorytet, krótki czas realizacji:**
-	- **Nauka prawa jazdy:** Ponieważ egzamin zbliża się za około 2 tygodnie, warto skupić się na regularnym powtarzaniu materiału i testach.
+	- **Nauka prawa jazdy:** Ponieważ egzamin zbliża się za około 3 dni, warto skupić się na regularnym powtarzaniu materiału i testach.
 
 - **Wysoki priorytet, ale większy czas:**
 	- **Godot Wall-E Stranding dostarczanie śmieci:** Jako projekt zarobkowy, który ma potencjał na dłuższy czas, warto nad nim pracować regularnie, ale nie na pierwszym miejscu.
