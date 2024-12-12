@@ -21,3 +21,4 @@ pomysl na gre testowa:
 - na yotube mozesz zrobic filmiki krotkie ktore ukazalby jak wygladac moglo by zdobyc navi w bitwie przez wojska, bardziej realistyczny avatar
 - zrobic gre o zombie survival cos jak TWD z street map z prawdziwego swiata
 - najbardziej realistyczny symulator kosmosu (literalnie)(joke game, ma byc jokiem),
+- sprobuj zrobic KSP2 (wiem gargantuiczny wysilek ale chociaz sprobuj, gra na koncu)
