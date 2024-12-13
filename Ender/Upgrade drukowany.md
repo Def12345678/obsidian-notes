@@ -1,3 +1,3 @@
 - power source nowe miejsce
 - direct extruder
-- 
+- phone holder
