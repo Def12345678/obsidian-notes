@@ -22,3 +22,4 @@ pomysl na gre testowa:
 - zrobic gre o zombie survival cos jak TWD z street map z prawdziwego swiata
 - najbardziej realistyczny symulator kosmosu (literalnie)(joke game, ma byc jokiem),
 - sprobuj zrobic KSP2 (wiem gargantuiczny wysilek ale chociaz sprobuj, gra na koncu)
+- gra do po prostu pojezdzenia (do podcastow)
