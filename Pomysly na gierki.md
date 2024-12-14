@@ -23,3 +23,4 @@ pomysl na gre testowa:
 - najbardziej realistyczny symulator kosmosu (literalnie)(joke game, ma byc jokiem),
 - sprobuj zrobic KSP2 (wiem gargantuiczny wysilek ale chociaz sprobuj, gra na koncu)
 - gra do po prostu pojezdzenia (do podcastow)
+- gra non euclidean moze horror?
