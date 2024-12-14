@@ -1,8 +1,7 @@
 **Po fotelu nie mogę wydawać pieniądzy z koperty**
 
 inne:
-- samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne)
-- zrobic kierownice do ets diy,
+- samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne),
 - samochod rc diy (do z mozliwoscia rozwozenia prezentow, mini prezentow, jakies ramie do niego i tyle),
 
 co teraz:
@@ -36,5 +35,6 @@ na później
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
 - gamejam tygodniowy (temat: bus simulator)
+- zrobic kierownice do ets diy,
 
 STM32F103RC_btt
