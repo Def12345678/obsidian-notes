@@ -3,7 +3,7 @@
 inne:
 - samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne)
 - zrobic kierownice do ets diy,
-- samochod rc diy,
+- samochod rc diy (do z mozliwoscia rozwozenia prezentow, mini prezentow, jakies ramie do niego i tyle),
 
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek),
