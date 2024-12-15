@@ -2,4 +2,4 @@ Jesli upgrade nie jest bardzo konieczny typu mmu lub dual color hotend to czekam
 
 dual z kit - 150 zl
 enclosure diy ikea lack
-klipper (nie koniecznie kupowany bo na androidze)
+klipper malina
