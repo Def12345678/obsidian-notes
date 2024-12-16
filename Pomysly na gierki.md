@@ -20,7 +20,7 @@ pomysl na gre testowa:
 - traffic rules you need follow
 - na yotube mozesz zrobic filmiki krotkie ktore ukazalby jak wygladac moglo by zdobyc navi w bitwie przez wojska, bardziej realistyczny avatar
 - zrobic gre o zombie survival cos jak TWD z street map z prawdziwego swiata
-- najbardziej realistyczny symulator kosmosu (literalnie)(joke game, ma byc jokiem),
+- najbardziej realistyczny symulator kosmosu (literalnie)(joke game),
 - sprobuj zrobic KSP2 (wiem gargantuiczny wysilek ale chociaz sprobuj, gra na koncu)
 - gra do po prostu pojezdzenia (do podcastow)
 - gra non euclidean moze horror?
