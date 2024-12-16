@@ -7,7 +7,7 @@ inne:
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek),
 - upgrade do endera,
-- ipa, plecionka,
+- ipa,
 - prezent do kuby,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
