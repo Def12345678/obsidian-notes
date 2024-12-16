@@ -6,7 +6,6 @@ inne:
 
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek),
-- nauka prawa jazdy,
 - upgrade do endera,
 - ipa, plecionka,
 - prezent do kuby,
@@ -16,7 +15,7 @@ Priorytetyzacja zdań (trzymaj sie kolejności):
 	- **Godot Wall-E Stranding dostarczanie śmieci:** Jako projekt zarobkowy, który ma potencjał na dłuższy czas, warto nad nim pracować regularnie, ale nie na pierwszym miejscu.
 	
 - **Niski priorytet, długi czas realizacji:**
-	- **Upgrade do Endera:** Ze względu na brak środków finansowych, możesz odłożyć to zadanie na później, kiedy Twoje finanse będą bardziej stabilne.
+	- **Upgrade do Endera:*
 
 
 
@@ -32,6 +31,6 @@ na później
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
 - gamejam tygodniowy (temat: bus simulator)
-- zrobic kierownice do ets diy,
+- zrobic kierownice do ets diy
 
 STM32F103RC_btt
