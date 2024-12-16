@@ -1,4 +1,4 @@
-**Po fotelu nie mogę wydawać pieniądzy z koperty**
+
 
 inne:
 - samolot rc wydrukowany najlepiej szary filament (teraz w pelni, pcb, wlasnej roboty joystick i te inne),
