@@ -9,6 +9,7 @@ co teraz:
 - upgrade do endera,
 - ipa,
 - prezent do kuby,
+- możesz spróbować robić projekty do ulepszania endera i do tego patronite,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Wysoki priorytet, ale większy czas:**
