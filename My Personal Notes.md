@@ -19,7 +19,7 @@ Priorytetyzacja zdań (trzymaj sie kolejności):
 	- **Godot Wall-E dostarczanie śmieci:** Jako projekt zarobkowy, który ma potencjał na dłuższy czas, warto nad nim pracować regularnie, ale nie na pierwszym miejscu.
 	
 - **Niski priorytet, długi czas realizacji:**
-	- **Upgrade do Endera:*
+	- **Upgrade do Endera:**
 
 
 
