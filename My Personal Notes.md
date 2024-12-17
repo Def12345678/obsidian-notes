@@ -6,10 +6,8 @@ inne:
 
 co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek),
-- upgrade do endera,
 - ipa,
 - prezent do kuby,
-- możesz spróbować robić projekty do ulepszania endera i do tego patronite,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
@@ -20,7 +18,7 @@ Priorytetyzacja zdań (trzymaj sie kolejności):
 	- **Godot Wall-E dostarczanie śmieci:** Jako projekt zarobkowy, który ma potencjał na dłuższy czas, warto nad nim pracować regularnie, ale nie na pierwszym miejscu.
 	
 - **Niski priorytet, długi czas realizacji:**
-	- **Upgrade do Endera:**
+	- **Upgrade do Endera:** Na razie bez ikea enclosure, po DE i inne chlodzenie mozesz to usunac i skupic sie na czyms co przyniesie pieniadz np godot, gamejam albo inne bzdury
 
 
 
