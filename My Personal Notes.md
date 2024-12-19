@@ -12,7 +12,7 @@ co teraz:
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
-	- **The long drive style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego,
+	- **The long drive style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego jazda po jeuropie po ataomowej rozrobie, jazda do hiszpanii albo losowo do jakiegos nadmorskiej miejscowosci,
 	- **gamejam** na razie nie mow o tym nikomu dopiero jak skonczysz go albo nawet wygrasz,
 	- **Upgrade do Endera:** Na razie bez ikea enclosure, po DE i inne chlodzenie mozesz to usunac i skupic sie na czyms co przyniesie pieniadz np godot, gamejam albo inne bzdury
 	
