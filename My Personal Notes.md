@@ -8,6 +8,7 @@ co teraz:
 - godot wall-e stranding dostarczanie smieci (sposob na zarobek),
 - ipa,
 - prezent do kuby,
+- ogarnąć figurki do WH40K
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
