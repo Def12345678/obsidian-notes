@@ -10,6 +10,7 @@ co teraz:
 - prezent do kuby,
 - ogarnąć figurki do WH40K
 - gamejam 2-tygodniowy (temat: bus simulator) z kubusiem
+- powoli ogarniac temat z ik do godota, przyczyniamy sie do powstania czegos nowego i lepszego,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
