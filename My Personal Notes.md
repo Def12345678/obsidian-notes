@@ -9,7 +9,7 @@ co teraz:
 - ipa,
 - prezent do kuby,
 - ogarnąć figurki do WH40K
-- gamejam tygodniowy (temat: bus simulator) z kubusiem
+- gamejam 2-tygodniowy (temat: bus simulator) z kubusiem
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
