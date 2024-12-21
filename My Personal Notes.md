@@ -9,10 +9,11 @@ co teraz:
 - ipa,
 - prezent do kuby,
 - ogarnąć figurki do WH40K
+- gamejam tygodniowy (temat: bus simulator) z kubusiem
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
-	- **The long drive style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego jazda po jeuropie po ataomowej rozrobie, jazda do hiszpanii albo losowo do jakiegos nadmorskiej miejscowosci,
+	- **The long drive style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego jazda po jeuropie po ataomowej rozrobie, jazda do hiszpanii albo losowo do jakiejs nadmorskiej miejscowosci,
 	- **gamejam** na razie nie mow o tym nikomu dopiero jak skonczysz go albo nawet wygrasz,
 	- **Upgrade do Endera:** Na razie bez ikea enclosure, po DE i inne chlodzenie mozesz to usunac i skupic sie na czyms co przyniesie pieniadz np godot, gamejam albo inne bzdury
 	
@@ -32,7 +33,6 @@ na później
 - projekt lozka z biurkiem pod nim,
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
-- gamejam tygodniowy (temat: bus simulator)
 - zrobic kierownice do ets diy
 
 STM32F103RC_btt
