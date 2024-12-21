@@ -2,4 +2,4 @@ Jesli upgrade nie jest bardzo konieczny typu mmu lub dual color hotend to czekam
 
 dual z kit - 150 zl
 enclosure diy ikea lack ( nie wczesniej niz prawko )
-klipper malina ( to wlasnie ogarniam )
+klipper malina ( to wlasnie ogarniam, bardzo kurwa smieszne, jebany skapiec pozdro dla przyszlego mnie )
