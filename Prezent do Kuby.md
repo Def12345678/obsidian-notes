@@ -7,5 +7,6 @@
 - body pillow
 - noise marines
 - girl und panzer https://www.amazon.com/PD20-Girls-Panzer-reformer-specification/dp/B014P8L66E?sr=8-31
+- lampki do roweru
 
 https://www.reddit.com/r/GIRLSundPANZER/comments/gj2nfh/all_of_my_girls_und_panzer_model_tanks_that_have/
