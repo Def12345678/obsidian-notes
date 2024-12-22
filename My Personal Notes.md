@@ -13,6 +13,9 @@ co teraz:
 - powoli ogarniac temat z ik do godota, przyczyniamy sie do powstania czegos nowego i lepszego,
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
+- Najwyższy priorytet:
+	- Gamejam z Kubusiem, trzeba ogarnąć a potem sie za to zabrac.
+	
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
 	- **The long drive style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego jazda po jeuropie po ataomowej rozrobie, jazda do hiszpanii albo losowo do jakiejs nadmorskiej miejscowosci,
 	- **gamejam** na razie nie mow o tym nikomu dopiero jak skonczysz go albo nawet wygrasz,
