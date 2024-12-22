@@ -38,5 +38,6 @@ na później
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
 - zrobic kierownice do ets diy
+- zegarek na biurko, jakis lepszy niz to co teraz mam
 
 STM32F103RC_btt
