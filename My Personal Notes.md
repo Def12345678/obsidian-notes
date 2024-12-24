@@ -39,5 +39,6 @@ na później
 - rf hack
 - zrobic kierownice do ets diy
 - zegarek na biurko, jakis lepszy niz to co teraz mam
+- gamejam z kubusiem 2 (my femboy is hitler)
 
 STM32F103RC_btt
