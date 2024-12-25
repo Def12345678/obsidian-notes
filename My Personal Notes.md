@@ -11,6 +11,7 @@ co teraz:
 - ogarnąć figurki do WH40K
 - gamejam 2-tygodniowy (temat: bus simulator) z kubusiem
 - powoli ogarniac temat z ik do godota, przyczyniamy sie do powstania czegos nowego i lepszego,
+- Lego technic wlasne (np auto zdalnie sterowane)
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - Najwyższy priorytet:
