@@ -12,6 +12,7 @@ co teraz:
 - gamejam 2-tygodniowy (temat: bus simulator) z kubusiem
 - powoli ogarniac temat z ik do godota, przyczyniamy sie do powstania czegos nowego i lepszego,
 - Lego technic wlasne (np auto zdalnie sterowane)
+- ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - Najwyższy priorytet:
