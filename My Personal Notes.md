@@ -5,7 +5,6 @@ inne:
 - samochod rc diy (do z mozliwoscia rozwozenia prezentow, mini prezentow, jakies ramie do niego i tyle),
 
 co teraz:
-- godot wall-e stranding dostarczanie smieci (sposob na zarobek),
 - ipa,
 - prezent do kuby,
 - Lego technic wlasne (np auto zdalnie sterowane)
@@ -22,9 +21,6 @@ Priorytetyzacja zdań (trzymaj sie kolejności):
 	
 	
 	- **Upgrade do Endera:** Na razie bez ikea enclosure, po DE i inne chlodzenie mozesz to usunac i skupic sie na czyms co przyniesie pieniadz np godot, gamejam albo inne bzdury
-	
-- **Wysoki priorytet, ale większy czas:**
-	- **Godot Wall-E dostarczanie śmieci:** Jako projekt zarobkowy, który ma potencjał na dłuższy czas, warto nad nim pracować regularnie, ale nie na pierwszym miejscu.
 
 
 
