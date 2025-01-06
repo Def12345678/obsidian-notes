@@ -16,6 +16,8 @@ Bardzo ważne dla dobrego samopoczucia:
 - kobieta (you know)
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
+- **Dokończyć**
+	- Gra bus simulator po gamejamie,
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
 	- **The long drive / yugo style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego jazda po jeuropie po ataomowej rozrobie, jazda do hiszpanii albo losowo do jakiejs nadmorskiej miejscowosci, do sluchania podcastow,
 	
