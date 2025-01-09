@@ -7,7 +7,7 @@ inne:
 co teraz:
 - ipa,
 - prezent do kuby,
-- Lego technic wlasne (np auto zdalnie sterowane)
+- Lego technic wlasne (np auto zdalnie sterowane z skrzynia biegow)
 - ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
 - komputer do mc (jak najtanszy)
 
@@ -39,6 +39,6 @@ na później
 - zegarek na biurko, jakis lepszy niz to co teraz mam
 - ogarnąć figurki do WH40K
 - powoli ogarniac temat z ik do godota, przyczyniamy sie do powstania czegos nowego i lepszego,
-- mini drukarki 3D
+- mini drukarki 3D byzes
 
 STM32F103RC_btt
