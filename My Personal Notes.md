@@ -18,6 +18,7 @@ Bardzo ważne dla dobrego samopoczucia:
 Priorytetyzacja zdań (trzymaj sie kolejności):
 - **Dokończyć**
 	- Gra bus simulator po gamejamie dokończ,
+	- panel audio trzeba ogarnac do czasu spotkania sie z ziomkiem od praktyk czyli niedlugo prawopodobnie,
 - **Bardzo wysoki priorytet, ukończ jak najszybciej**:
 	- **The long drive / yugo style tylko lepiej zrobione**: dużo prościej coś takiego zrobić bez GDD czy planu, gra nie wymaga większego lore czy czegoś takiego jazda po jeuropie po ataomowej rozrobie, jazda do hiszpanii albo losowo do jakiejs nadmorskiej miejscowosci, do sluchania podcastow,
 	
@@ -31,7 +32,6 @@ na później
 - streamy z North african Campany,
 - firma produkujaca drukarki 3D,
 - pomyslec o flight sticku tyle ze takim na biurko (odstawka jak na razie),
-- panel audio (odstawka jak na razie),
 - projekt lozka z biurkiem pod nim,
 - robotic arm ( ͡° ͜ʖ ͡°)
 - rf hack
