@@ -41,5 +41,6 @@ na później
 - ogarnąć figurki do WH40K
 - powoli ogarniac temat z ik do godota, przyczyniamy sie do powstania czegos nowego i lepszego,
 - mini drukarki 3D byznes
+- wydrukuj zegarka te gowno z 7 segmentami,
 
 STM32F103RC_btt
