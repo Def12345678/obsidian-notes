@@ -14,7 +14,7 @@ co teraz:
 
 Bardzo ważne dla dobrego samopoczucia:
 - silownia (proba w domu potem lecimy karnet i chuj)
-- prowadzenie notatnika
+- prowadzenie notatnika (fizycznego)
 - kobieta (you know)
 
 Priorytetyzacja zdań (trzymaj sie kolejności):
