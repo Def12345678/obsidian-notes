@@ -11,6 +11,8 @@ co teraz:
 - ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
 - komputer do mc (jak najtanszy)
 - 2 auta i tor do wyścigów szutrowych niczym motobieda oraz grill.
+- maszynka do trymowac brody
+- ekspres do kawy
 
 Bardzo ważne dla dobrego samopoczucia:
 - silownia (proba w domu potem lecimy karnet i chuj)
