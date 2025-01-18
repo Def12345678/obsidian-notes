@@ -12,6 +12,7 @@ co teraz:
 - komputer do mc (jak najtanszy)
 - maszynka do trymowac brody
 - ekspres do kawy
+- Kuby sourcebook
 
 Bardzo ważne dla dobrego samopoczucia:
 - silownia (proba w domu potem lecimy karnet i chuj)
