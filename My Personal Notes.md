@@ -10,7 +10,6 @@ co teraz:
 - Lego technic wlasne (np auto zdalnie sterowane z skrzynia biegow)
 - ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
 - komputer do mc (jak najtanszy)
-- 2 auta i tor do wyścigów szutrowych niczym motobieda oraz grill.
 - maszynka do trymowac brody
 - ekspres do kawy
 
@@ -46,5 +45,6 @@ na później
 - mini drukarki 3D byznes
 - wydrukuj zegarka te gowno z 7 segmentami,
 - Aneta Adama do 4 osi przerobienie
+- 2 auta i tor do wyścigów szutrowych niczym motobieda oraz grill.
 
 STM32F103RC_btt
