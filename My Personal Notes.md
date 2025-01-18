@@ -46,5 +46,6 @@ na później
 - wydrukuj zegarka te gowno z 7 segmentami,
 - Aneta Adama do 4 osi przerobienie
 - 2 auta i tor do wyścigów szutrowych niczym motobieda oraz grill.
+- ai asystent na llama cos w rodzaju chatGPT tyle ze ma dostep do PC w jakis sposob i moze pomagac w taska codziennych dodatkowo jakies remaindery np. Czas na silownie, czas na prace, itd wszystko lokalnie.
 
 STM32F103RC_btt
