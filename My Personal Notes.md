@@ -5,7 +5,7 @@ inne:
 - samochod rc diy (do z mozliwoscia rozwozenia prezentow, mini prezentow, jakies ramie do niego i tyle),
 
 co teraz:
-- ipa, flux,
+- ipa,
 - prezent do kuby,
 - Lego technic wlasne (np auto zdalnie sterowane z skrzynia biegow)
 - ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
