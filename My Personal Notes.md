@@ -7,7 +7,7 @@ inne:
 co teraz:
 - ipa,
 - prezent do kuby,
-- Lego technic wlasne (np auto zdalnie sterowane z skrzynia biegow)
+- Lego technic wlasne (np auto zdalnie sterowane z skrzynia biegow) (szary filament mozna kupic z tym swiecącym jednoczesnie)
 - ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
 - komputer do mc (jak najtanszy)
 - ekspres do kawy
