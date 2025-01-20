@@ -5,12 +5,11 @@ inne:
 - samochod rc diy (do z mozliwoscia rozwozenia prezentow, mini prezentow, jakies ramie do niego i tyle),
 
 co teraz:
-- ipa, rzeczy do nosa, flux,
+- ipa, flux,
 - prezent do kuby,
 - Lego technic wlasne (np auto zdalnie sterowane z skrzynia biegow)
 - ogarniac minecraft create aby miec schematy gotowych pojazdow i aby zmiażdzyć Kubusia w pojedynku lol
 - komputer do mc (jak najtanszy)
-- maszynka do trymowac brody
 - ekspres do kawy
 - Kuby sourcebook
 
