@@ -24,3 +24,4 @@ pomysl na gre testowa:
 - sprobuj zrobic KSP2 (wiem gargantuiczny wysilek ale chociaz sprobuj, gra na koncu)
 - gra do po prostu pojezdzenia (do podcastow)
 - gra non euclidean moze horror?
+- gra na z ai (chatgpt np) na podstawie czatow z juicychat.ai
